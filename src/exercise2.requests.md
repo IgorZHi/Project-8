@@ -20,7 +20,7 @@
 ##### POST https://sbermegamarket.ru/api/mobile/v1/catalogService/catalog/search
 
 
-![Alt text](image-2.png)
+![Alt text](misc/images/image-2.png)
 
 3. ***Какой запрос(-ы) отправляется на сервер при поиске региона или города в модалке выбора вашего региона?***
 
