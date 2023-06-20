@@ -10,7 +10,7 @@
 
 ##### POST https://sbermegamarket.ru/api/mobile/v1/catalogService/filters/search
 
-![Alt text](image.png)
+![Alt text](misc/images/image.png)
 
 
 ##### POST https://sbermegamarket.ru/api/mobile/v3/catalogService/catalog/searchSuggest
