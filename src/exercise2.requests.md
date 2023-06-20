@@ -4,7 +4,7 @@
 
 ##### POST https://sbermegamarket.ru/api/mobile/v1/catalogService/catalog/menu
 
-![Alt text](image-3.png)
+![Alt text](misc/images/image-3.png)
 
 2. ***Какой запрос(-ы) отправляется на сервер при использовании поиска товаров в каталоге?***
 
