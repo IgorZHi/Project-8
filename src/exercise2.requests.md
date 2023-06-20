@@ -15,7 +15,7 @@
 
 ##### POST https://sbermegamarket.ru/api/mobile/v3/catalogService/catalog/searchSuggest
 
-![Alt text](image-1.png)
+![Alt text](misc/images/image-1.png)
 
 ##### POST https://sbermegamarket.ru/api/mobile/v1/catalogService/catalog/search
 
